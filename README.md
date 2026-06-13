@@ -89,8 +89,8 @@ class Joshua:
 
 #### 📡 IoT & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![QRduino](https://img.shields.io/badge/QRduino-008184?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![QRduino](https://img.shields.io/badge/QRduino-0B1021?style=for-the-badge&logo=qrcode&logoColor=white)
 
 #### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
