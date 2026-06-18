@@ -1,73 +1,106 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=220&section=header&text=Joshua%20Setiawan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20IoT%20%26%20Automation&descSize=18&descAlignY=56"/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Joshua+Setiawan;AI+%26+Machine+Learning+Engineer;Full-Stack+Web+Developer;Computer+Vision+Developer;IoT+%26+Automation+Enthusiast;Building+Practical+and+Scalable+Technology)](https://git.io/typing-svg)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=joshuasetiawann&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/joshuasetiawann?style=for-the-badge&color=A855F7&labelColor=1c1c1c&logo=github"/>
-<a href="https://github.com/joshuasetiawann?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- ====================== HEADER ====================== -->
+<a href="https://github.com/joshuasetiawann">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=220&section=header&text=Joshua%20Setiawan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%C3%97%20Full-Stack%20Dev%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20OS%20Dev%20%E2%80%A2%20IoT&descSize=18&descAlignY=56" width="100%" />
 </a>
 
-</div>
-
-<br>
-
-## About Me
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-Hi, I am **Joshua Setiawan**, an **AI/ML Engineer** and **Full-Stack Developer** from Indonesia.
-
-I focus on building practical technology solutions by combining **artificial intelligence, computer vision, web development, IoT, and automation**. I enjoy transforming ideas into reliable systems, from machine learning models and real-time detection systems to modern web applications and connected hardware solutions.
-
-My current interests include **production-ready machine learning**, **MLOps**, **scalable AI systems**, and **real-world computer vision applications**.
-
-<br>
-
-- AI/ML Engineer with a strong interest in applied machine learning
-- Computer Vision developer focused on object detection and image processing
-- Full-Stack Developer experienced in building responsive and functional web applications
-- IoT and automation enthusiast with interest in hardware-software integration
-- Continuously improving in system design, model deployment, and scalable backend architecture
-
-<br clear="right"/>
-
----
-
-## Professional Focus
-
 <div align="center">
 
-| Area | Focus |
-| :--- | :--- |
-| **Artificial Intelligence** | Machine learning models, prediction systems, classification, and automation |
-| **Computer Vision** | Object detection, image processing, and real-time camera-based systems |
-| **Full-Stack Development** | Frontend, backend, authentication, database, and deployment |
-| **IoT Systems** | Sensor-based systems, microcontroller integration, and monitoring dashboards |
-| **Automation** | Workflow automation, scripting, and efficiency-focused tools |
-| **Cloud & Backend** | API development, database management, and scalable deployment |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Hey!+I'm+Joshua+Setiawan+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;YOLOv8+Computer+Vision+Wizard+%F0%9F%91%81;OS+Dev+%E2%80%94+Writing+a+Kernel+from+Scratch+%F0%9F%96%A5;Certified+Vibe+Coder+%E2%9C%A8)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=joshuasetiawann&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS)](https://github.com/joshuasetiawann)
+[![Followers](https://img.shields.io/github/followers/joshuasetiawann?style=for-the-badge&color=A855F7&labelColor=1c1c1c&logo=github)](https://github.com/joshuasetiawann?tab=followers)
+[![Repos](https://img.shields.io/badge/Repos-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshuasetiawann?tab=repositories)
 
 </div>
 
 ---
 
-## Tech Stack
+## 🧬 whoami
 
-<div align="center">
+```python
+class Joshua:
+    def __init__(self):
+        self.name     = "Joshua Setiawan"
+        self.origin   = "Indonesia 🇮🇩"
+        self.role     = "AI Engineer × Full-Stack Dev"
+        self.stack    = ["Python", "C++", "C", "JavaScript", "PHP", "Dart"]
+        self.building = "THUOS — a real OS kernel, from scratch"
+        self.vibe     = "Build fast. Ship faster. Stay curious."
 
-### Programming Languages
+    @property
+    def superpowers(self):
+        return [
+            "🤖 AI / Machine Learning",
+            "👁️ Computer Vision (YOLOv8 · OpenCV)",
+            "🌐 Full-Stack Web Dev",
+            "🖥️ Low-level / OS Dev (C · x86 asm)",
+            "📡 IoT Systems & Automation",
+        ]
+```
+
+- 🔭 Going deep on **MLOps & scalable AI systems** — and writing an x86 kernel for fun
+- 👁️ Obsessed with **Computer Vision** and shipping models that *actually* work
+- 🧠 Comfortable from **bare-metal C** all the way up to **full-stack web**
+- 💬 Ask me about **AI, YOLOv8, OS dev, Python, IoT, or web** — anything tech
+- ⚡ Certified vibe coder — flow state, lo-fi beats, clean commits 🎧
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [THUOS — THUNITY-OS](https://github.com/joshuasetiawann/THUNITY-OS)
+A **from-scratch x86 operating system**: a real, bootable kernel in **C + Assembly** with paging, cooperative multitasking, a RAM filesystem, ring-3 user mode, a **1024×768 truecolor desktop**, and **USB-HID** keyboard + mouse. Boot-verified in QEMU by CI on every push.
+
+`C` · `x86 Assembly` · `OS Dev` · `QEMU`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [Tasktivity](https://github.com/joshuasetiawann/Tasktivity-Productivity-App-Integrated-Using-AI)
+An **AI-powered productivity platform** that auto-builds your daily schedule, gamifies progress with XP & streaks, and ships real-time analytics — live on Vercel.
+
+`JavaScript` · `Supabase` · `OpenRouter` · `n8n` · `Telegram`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ [Object Recognition with YOLOv8](https://github.com/joshuasetiawann/Object-Recognition-with-Yolo8)
+Real-time **object detection** powered by **YOLOv8 + OpenCV** — my computer-vision playground.
+
+`Python` · `YOLOv8` · `OpenCV`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [E-Commerce Website](https://github.com/joshuasetiawann/E-Commerce-Website-With-Database-Using-PHP)
+A full **e-commerce site** with a database-backed catalog, cart, and checkout flow.
+
+`PHP` · `MySQL` · `CSS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Arsenal
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### AI, Machine Learning & Computer Vision
+**AI / ML / Computer Vision**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -78,7 +111,7 @@ My current interests include **production-ready machine learning**, **MLOps**, *
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Web Development
+**Web & Frameworks**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -87,7 +120,7 @@ My current interests include **production-ready machine learning**, **MLOps**, *
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend, Database & Deployment
+**Backend · Cloud · Databases**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -95,7 +128,7 @@ My current interests include **production-ready machine learning**, **MLOps**, *
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### IoT, Tools & Platforms
+**IoT · Tools · Platforms**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -105,92 +138,56 @@ My current interests include **production-ready machine learning**, **MLOps**, *
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
 ---
 
-## Current Focus
-
-I am currently focused on improving my skills in applied AI engineering, especially around model deployment, computer vision systems, and scalable application development.
-
-<br>
-
-- Building stronger foundations in **MLOps and production machine learning**
-- Developing more reliable **computer vision systems**
-- Improving backend architecture for **AI-powered applications**
-- Exploring model deployment, API integration, and cloud-based workflows
-- Creating practical systems that combine **AI, web, automation, and IoT**
-
----
-
-## GitHub Analytics
+## 📊 The Numbers Don't Lie
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joshuasetiawann&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0d1117"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuasetiawann&layout=compact&hide_border=true&langs_count=8&title_color=A855F7&text_color=ffffff&bg_color=0d1117"/>
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuasetiawann&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuasetiawann&layout=compact&hide_border=true&langs_count=8&title_color=A855F7&text_color=ffffff&bg_color=0d1117)
 
-<br><br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuasetiawann&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=ffffff&dates=ffffff&stroke=A855F7)
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=joshuasetiawann&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=ffffff&dates=ffffff&stroke=A855F7"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joshuasetiawann&bg_color=0d1117&color=ffffff&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph)
 
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=joshuasetiawann&bg_color=0d1117&color=ffffff&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=joshuasetiawann&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
 ---
 
-## Contribution Overview
+## 🐍 Watch Me Cook
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshuasetiawann/joshuasetiawann/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshuasetiawann/joshuasetiawann/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/joshuasetiawann/joshuasetiawann/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshuasetiawann/joshuasetiawann/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshuasetiawann/joshuasetiawann/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/joshuasetiawann/joshuasetiawann/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## Connect With Me
+## 🤝 Let's Connect & Vibe
 
 <div align="center">
 
-I am open to collaboration, project discussions, and opportunities related to **AI/ML, Computer Vision, Full-Stack Development, IoT, and Automation**.
-
-<br>
-
-<a href="https://www.linkedin.com/in/joshuasetiawann/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:07joshua2020@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/joshuasetiawann">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/jshuuastwn/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.tiktok.com/@joshuasetiawann">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/joshuasetiawann">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuasetiawann/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshuasetiawann)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jshuuastwn/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@joshuasetiawann)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/joshuasetiawann)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:07joshua2020@gmail.com)
 
 </div>
-
-<br>
 
 <div align="center">
 
-### Building intelligent, practical, and scalable technology solutions.
+> ### *"Code with passion, ship with vision, vibe with the process."* ✨
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer" width="100%" />
