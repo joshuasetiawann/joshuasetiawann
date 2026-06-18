@@ -46,7 +46,6 @@ class Joshua:
 
 <br>
 
-<!-- ============ TECH ARSENAL ============ -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My Arsenal
 
 <div align="center">
@@ -99,7 +98,6 @@ class Joshua:
 
 <br>
 
-<!-- ============ GITHUB STATS ============ -->
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sN15Bdc/giphy.gif" width="28"> The Numbers Don't Lie
 
 <div align="center">
