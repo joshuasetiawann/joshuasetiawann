@@ -9,7 +9,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=joshuasetiawann&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS)](https://github.com/joshuasetiawann)
 [![Followers](https://img.shields.io/github/followers/joshuasetiawann?style=for-the-badge&color=A855F7&labelColor=1c1c1c&logo=github)](https://github.com/joshuasetiawann?tab=followers)
-[![Repos](https://img.shields.io/badge/Repos-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshuasetiawann?tab=repositories)
 
 </div>
 
@@ -91,56 +90,29 @@ A full **e-commerce site** with a database-backed catalog, cart, and checkout fl
 
 ## 🧰 Tech Arsenal
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<b>Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,dart" />
 
-**AI / ML / Computer Vision**
+<b>AI · ML · Computer Vision</b><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" /><br/>
+<sub>Keras • Pandas • NumPy</sub>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=00FFFF)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<b>Web · Frameworks</b><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,vue,nodejs,flutter,html,css" />
 
-**Web & Frameworks**
+<b>Backend · Cloud · Databases</b><br/>
+<img src="https://skillicons.dev/icons?i=supabase,vercel,postgres,mysql,mongodb" />
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<b>Tools · IoT · Platforms</b><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,arduino,raspberrypi" />
 
-**Backend · Cloud · Databases**
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**IoT · Tools · Platforms**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
-## 📊 The Numbers Don't Lie
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -150,8 +122,6 @@ A full **e-commerce site** with a database-backed catalog, cart, and checkout fl
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuasetiawann&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=ffffff&dates=ffffff&stroke=A855F7)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joshuasetiawann&bg_color=0d1117&color=ffffff&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=joshuasetiawann&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
