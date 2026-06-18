@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Hey!+I'm+Joshua+Setiawan+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;YOLOv8+Computer+Vision+Wizard+%F0%9F%91%81;OS+Dev+%E2%80%94+Writing+a+Kernel+from+Scratch+%F0%9F%96%A5;Certified+Vibe+Coder+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Hey!+I'm+Joshua+Setiawan+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;YOLOv8+Computer+Vision+Wizard+%F0%9F%91%81;OS+Dev+%E2%80%94+Writing+a+Kernel+from+Scratch+%F0%9F%96%A5)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=joshuasetiawann&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS)](https://github.com/joshuasetiawann)
 [![Followers](https://img.shields.io/github/followers/joshuasetiawann?style=for-the-badge&color=A855F7&labelColor=1c1c1c&logo=github)](https://github.com/joshuasetiawann?tab=followers)
@@ -24,7 +24,7 @@ class Joshua:
         self.role     = "AI Engineer × Full-Stack Dev"
         self.stack    = ["Python", "C++", "C", "JavaScript", "PHP", "Dart"]
         self.building = "THUOS — a real OS kernel, from scratch"
-        self.vibe     = "Build fast. Ship faster. Stay curious."
+        self.motto    = "Build fast. Ship faster. Stay curious."
 
     @property
     def superpowers(self):
@@ -41,20 +41,25 @@ class Joshua:
 - 👁️ Obsessed with **Computer Vision** and shipping models that *actually* work
 - 🧠 Comfortable from **bare-metal C** all the way up to **full-stack web**
 - 💬 Ask me about **AI, YOLOv8, OS dev, Python, IoT, or web** — anything tech
-- ⚡ Certified vibe coder — flow state, lo-fi beats, clean commits 🎧
+- 🚀 Open to collaborating on **AI, computer vision, and systems** projects
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🖥️ [THUOS — THUNITY-OS](https://github.com/joshuasetiawann/THUNITY-OS)
+A **from-scratch x86 operating system** — a real, bootable kernel in **C + Assembly** with paging, cooperative multitasking, a RAM filesystem, ring-3 user mode, a **1024×768 truecolor desktop** with apps, and **USB-HID** keyboard + mouse. Boot-verified in QEMU by CI on every push.
+
+`C` · `x86 Assembly` · `OS Dev` · `QEMU` · `CI`
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ [THUOS — THUNITY-OS](https://github.com/joshuasetiawann/THUNITY-OS)
-A **from-scratch x86 operating system**: a real, bootable kernel in **C + Assembly** with paging, cooperative multitasking, a RAM filesystem, ring-3 user mode, a **1024×768 truecolor desktop**, and **USB-HID** keyboard + mouse. Boot-verified in QEMU by CI on every push.
+### 🧠 [AllHaven Command Center](https://github.com/joshuasetiawann/AllHaven-Application)
+A **local-first AI command center** for personal & company productivity — unifies tasks, notes, finance, and a **multi-agent AI** assistant (up to 10 agents across 15 providers) with human-in-the-loop approval for every risky action.
 
-`C` · `x86 Assembly` · `OS Dev` · `QEMU`
+`Python` · `FastAPI` · `Next.js` · `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
@@ -62,7 +67,7 @@ A **from-scratch x86 operating system**: a real, bootable kernel in **C + Assemb
 ### ⚡ [Tasktivity](https://github.com/joshuasetiawann/Tasktivity-Productivity-App-Integrated-Using-AI)
 An **AI-powered productivity platform** that auto-builds your daily schedule, gamifies progress with XP & streaks, and ships real-time analytics — live on Vercel.
 
-`JavaScript` · `Supabase` · `OpenRouter` · `n8n` · `Telegram`
+`JavaScript` · `Supabase` · `OpenRouter` · `n8n`
 
 </td>
 </tr>
@@ -70,17 +75,17 @@ An **AI-powered productivity platform** that auto-builds your daily schedule, ga
 <td width="50%" valign="top">
 
 ### 👁️ [Object Recognition with YOLOv8](https://github.com/joshuasetiawann/Object-Recognition-with-Yolo8)
-Real-time **object detection** powered by **YOLOv8 + OpenCV** — my computer-vision playground.
+Real-time **object detection** powered by **YOLOv8 + OpenCV** — a hands-on computer-vision build.
 
 `Python` · `YOLOv8` · `OpenCV`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [E-Commerce Website](https://github.com/joshuasetiawann/E-Commerce-Website-With-Database-Using-PHP)
-A full **e-commerce site** with a database-backed catalog, cart, and checkout flow.
+### 🗂️ [ThuAI — Personal & Business Organization AI](https://github.com/joshuasetiawann/ThuAI-Personal-Business-Organization-AI)
+An **AI assistant for personal & business organization**, bringing planning and everyday workflows under one AI-driven roof.
 
-`PHP` · `MySQL` · `CSS`
+`Python` · `AI`
 
 </td>
 </tr>
@@ -141,7 +146,7 @@ A full **e-commerce site** with a database-backed catalog, cart, and checkout fl
 
 ---
 
-## 🤝 Let's Connect & Vibe
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -156,7 +161,7 @@ A full **e-commerce site** with a database-backed catalog, cart, and checkout fl
 
 <div align="center">
 
-> ### *"Code with passion, ship with vision, vibe with the process."* ✨
+> ### *"Code with passion, ship with vision, enjoy the process."* ✨
 
 </div>
 
