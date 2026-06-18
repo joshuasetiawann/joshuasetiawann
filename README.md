@@ -136,7 +136,6 @@ class Joshua:
 
 <br>
 
-<!-- ============ WHAT I DO ============ -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> What I Bring to the Table
 
 <div align="center">
