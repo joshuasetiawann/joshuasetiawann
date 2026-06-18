@@ -1,4 +1,3 @@
-<!-- ============ HEADER ANIMATED BANNER ============ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=220&section=header&text=Joshua%20Setiawan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20•%20Full-Stack%20•%20Computer%20Vision%20•%20IoT%20•%20Vibe%20Coder&descSize=18&descAlignY=56"/>
 
 <!-- ============ TYPING EFFECT ============ -->
