@@ -154,7 +154,6 @@ class Joshua:
 
 <br>
 
-<!-- ============ CONNECT ============ -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Let's Connect & Vibe
 <div align="center">
 
@@ -169,12 +168,10 @@ class Joshua:
 
 <br>
 
-<!-- ============ QUOTE ============ -->
 <div align="center">
 
 > ### *"Code with passion, ship with vision, vibe with the process."* ✨
 
 </div>
 
-<!-- ============ FOOTER ============ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer"/>
