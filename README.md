@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=220&section=header&text=Joshua%20Setiawan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20•%20Full-Stack%20•%20Computer%20Vision%20•%20IoT%20•%20Vibe%20Coder&descSize=18&descAlignY=56"/>
 
-<!-- ============ TYPING EFFECT ============ -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Hey!+I'm+Joshua+Setiawan+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;YOLOv8+Computer+Vision+Wizard+%F0%9F%91%81%EF%B8%8F;IoT+Builder+%26+Automation+Geek+%E2%9A%A1;Certified+Vibe+Coder+%E2%9C%A8)](https://git.io/typing-svg)
