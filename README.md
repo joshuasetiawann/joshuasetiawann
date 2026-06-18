@@ -45,7 +45,7 @@ My current interests include **production-ready machine learning**, **MLOps**, *
 | Area | Focus |
 | :--- | :--- |
 | **Artificial Intelligence** | Machine learning models, prediction systems, classification, and automation |
-| **Computer Vision** | Object detection, image processing, real-time camera-based systems |
+| **Computer Vision** | Object detection, image processing, and real-time camera-based systems |
 | **Full-Stack Development** | Frontend, backend, authentication, database, and deployment |
 | **IoT Systems** | Sensor-based systems, microcontroller integration, and monitoring dashboards |
 | **Automation** | Workflow automation, scripting, and efficiency-focused tools |
@@ -109,30 +109,17 @@ My current interests include **production-ready machine learning**, **MLOps**, *
 
 ---
 
-## Featured Projects
+## Current Focus
 
-<div align="center">
+I am currently focused on improving my skills in applied AI engineering, especially around model deployment, computer vision systems, and scalable application development.
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Computer Vision Detection System** | Real-time object detection system using camera input and computer vision models | Python, YOLOv8, OpenCV | [Repository](#) |
-| **Machine Learning Application** | Machine learning-based application for prediction, classification, or data-driven automation | Python, scikit-learn, Pandas, NumPy | [Repository](#) |
-| **Full-Stack Web Application** | Responsive web platform with authentication, database integration, and deployment-ready architecture | Next.js, Node.js, Supabase, PostgreSQL | [Repository](#) |
-| **IoT Monitoring System** | Hardware-integrated monitoring system with sensor data collection and dashboard visualization | Arduino, Raspberry Pi, Web Dashboard | [Repository](#) |
+<br>
 
-</div>
-
-> Replace the placeholder links with your actual repositories, demos, or documentation.
-
----
-
-## Current Learning Goals
-
-- Improving skills in **MLOps and production machine learning**
-- Building more reliable **computer vision systems**
-- Learning scalable backend architecture for AI-powered applications
+- Building stronger foundations in **MLOps and production machine learning**
+- Developing more reliable **computer vision systems**
+- Improving backend architecture for **AI-powered applications**
 - Exploring model deployment, API integration, and cloud-based workflows
-- Creating practical projects that combine AI, web, automation, and IoT
+- Creating practical systems that combine **AI, web, automation, and IoT**
 
 ---
 
