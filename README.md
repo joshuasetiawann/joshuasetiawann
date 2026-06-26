@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=220&section=header&text=Joshua%20Setiawan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%C3%97%20Full-Stack%20Dev%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20OS%20Dev%20%E2%80%A2%20IoT&descSize=18&descAlignY=56" width="100%" />
 </a>
 
-<div align="center">
+<div align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=620&lines=Hey!+I'm+Joshua+Setiawan+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;YOLOv8+Computer+Vision+Wizard+%F0%9F%91%81;OS+Dev+%E2%80%94+Writing+a+Kernel+from+Scratch+%F0%9F%96%A5)](https://git.io/typing-svg)
 
